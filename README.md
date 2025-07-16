@@ -1,14 +1,14 @@
 # Bank-Loan-Analysis-Visualization
 
-1. Project
+### 1. Project
 
 An end-to-end data analysis and visualization project designed to uncover patterns in loan approval, customer demographics, loan performance, and business KPIs using SQL, Excel, and Power BI.
 
-2. Description / Purpose
+### 2. Description / Purpose
 
 The Bank Loan Analysis Dashboard is an interactive Power BI solution built to help financial institutions and analysts understand the performance of loans and customer segments. It enables decision-makers to identify trends, improve loan strategies, and reduce risks by leveraging multi-source data.
 
-4. Tech Stack
+### 3. Tech Stack
 
 This project was built using the following technologies:
 
@@ -26,14 +26,14 @@ This project was built using the following technologies:
 
 🛢️ Microsoft SQL Server – Used to store and manage cleaned data before loading into Power BI
 
-5. Business Problem
+### 4. Business Problem
 
 Financial institutions need better insights into loan approval trends, default risks, and customer profiling to optimize lending decisions and reduce bad loans. Manual spreadsheets and static reports lack the depth and clarity needed for real-time analysis.
 
 
-6.  Goal of the Dashboard
+### 5. Goal of the Dashboard
 
- To create a visual reporting tool that:
+To create a visual reporting tool that:
 
 Provides real-time insights into loan approval rates, defaults, and recovery
 
@@ -44,7 +44,7 @@ Tracks overall loan volume, performance, and risk
 Supports strategic decisions around lending policies and marketing
 
 
-7. Features / Highlights
+### 6. Features / Highlights
 
 • Walkthrough of Key Visuals
 
@@ -76,7 +76,7 @@ Performance Tracking: Monitor loan officers’ performance or branch-wise metric
 
 Credit Strategy: Align loan products with demographic needs and repayment capability
 
-8. Dashboard Preview
+### 7. Dashboard Preview
    ![Dashboard](https://github.com/Pratikdhage48/Bank-Loan-Analysis-Visualization/blob/main/1_Dashboard_Summary.JPG)
    ![Dashboard](https://github.com/Pratikdhage48/Bank-Loan-Analysis-Visualization/blob/main/2_Dashboard_Overview.JPG)
    ![Dashboard](https://github.com/Pratikdhage48/Bank-Loan-Analysis-Visualization/blob/main/3_Dashboard_Datail.JPG)
